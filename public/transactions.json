@@ -1,0 +1,328 @@
+{
+  "transactions": [
+    {
+      "transactionId": "T-2026-0001",
+      "customerId": "C-101",
+      "firstName": "John",
+      "lastName": "Carter",
+      "purchaseDate": "Apr-02-2026",
+      "productPurchased": "Track Jacket",
+      "price": 3200
+    },
+    {
+      "transactionId": "T-2026-0002",
+      "customerId": "C-101",
+      "firstName": "John",
+      "lastName": "Carter",
+      "purchaseDate": "Apr-07-2026",
+      "productPurchased": "Gym Bag",
+      "price": 4500
+    },
+    {
+      "transactionId": "T-2026-0003",
+      "customerId": "C-102",
+      "firstName": "Mia",
+      "lastName": "Lopez",
+      "purchaseDate": "Apr-03-2026",
+      "productPurchased": "Gym Bag",
+      "price": 5500
+    },
+    {
+      "transactionId": "T-2026-0004",
+      "customerId": "C-102",
+      "firstName": "Mia",
+      "lastName": "Lopez",
+      "purchaseDate": "Apr-08-2026",
+      "productPurchased": "Wireless Earbuds",
+      "price": 5999
+    },
+    {
+      "transactionId": "T-2026-0005",
+      "customerId": "C-103",
+      "firstName": "Arjun",
+      "lastName": "Mehta",
+      "purchaseDate": "Apr-04-2026",
+      "productPurchased": "Wireless Earbuds",
+      "price": 6500
+    },
+    {
+      "transactionId": "T-2026-0006",
+      "customerId": "C-103",
+      "firstName": "Arjun",
+      "lastName": "Mehta",
+      "purchaseDate": "Apr-09-2026",
+      "productPurchased": "Cycling Helmet",
+      "price": 7200
+    },
+    {
+      "transactionId": "T-2026-0007",
+      "customerId": "C-104",
+      "firstName": "Sarah",
+      "lastName": "Kim",
+      "purchaseDate": "Apr-02-2026",
+      "productPurchased": "Cycling Helmet",
+      "price": 8000
+    },
+    {
+      "transactionId": "T-2026-0008",
+      "customerId": "C-104",
+      "firstName": "Sarah",
+      "lastName": "Kim",
+      "purchaseDate": "Apr-07-2026",
+      "productPurchased": "Water Bottle",
+      "price": 8999
+    },
+    {
+      "transactionId": "T-2026-0009",
+      "customerId": "C-105",
+      "firstName": "David",
+      "lastName": "Chen",
+      "purchaseDate": "Apr-03-2026",
+      "productPurchased": "Water Bottle",
+      "price": 9000
+    },
+    {
+      "transactionId": "T-2026-0010",
+      "customerId": "C-105",
+      "firstName": "David",
+      "lastName": "Chen",
+      "purchaseDate": "Apr-08-2026",
+      "productPurchased": "Sports Socks",
+      "price": 10020
+    },
+    {
+      "transactionId": "T-2026-0011",
+      "customerId": "C-106",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "purchaseDate": "Apr-04-2026",
+      "productPurchased": "Sports Socks",
+      "price": 11000
+    },
+    {
+      "transactionId": "T-2026-0012",
+      "customerId": "C-106",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "purchaseDate": "Apr-09-2026",
+      "productPurchased": "Foam Roller",
+      "price": 12500
+    },
+    {
+      "transactionId": "T-2026-0013",
+      "customerId": "C-101",
+      "firstName": "John",
+      "lastName": "Carter",
+      "purchaseDate": "May-02-2026",
+      "productPurchased": "Foam Roller",
+      "price": 14900
+    },
+    {
+      "transactionId": "T-2026-0014",
+      "customerId": "C-101",
+      "firstName": "John",
+      "lastName": "Carter",
+      "purchaseDate": "May-07-2026",
+      "productPurchased": "Training Shorts",
+      "price": 15000
+    },
+    {
+      "transactionId": "T-2026-0015",
+      "customerId": "C-102",
+      "firstName": "Mia",
+      "lastName": "Lopez",
+      "purchaseDate": "May-03-2026",
+      "productPurchased": "Training Shorts",
+      "price": 18999
+    },
+    {
+      "transactionId": "T-2026-0016",
+      "customerId": "C-102",
+      "firstName": "Mia",
+      "lastName": "Lopez",
+      "purchaseDate": "May-08-2026",
+      "productPurchased": "Swim Goggles",
+      "price": 20050
+    },
+    {
+      "transactionId": "T-2026-0017",
+      "customerId": "C-103",
+      "firstName": "Arjun",
+      "lastName": "Mehta",
+      "purchaseDate": "May-04-2026",
+      "productPurchased": "Swim Goggles",
+      "price": 24999
+    },
+    {
+      "transactionId": "T-2026-0018",
+      "customerId": "C-103",
+      "firstName": "Arjun",
+      "lastName": "Mehta",
+      "purchaseDate": "May-09-2026",
+      "productPurchased": "Compression Shirt",
+      "price": 1999
+    },
+    {
+      "transactionId": "T-2026-0019",
+      "customerId": "C-104",
+      "firstName": "Sarah",
+      "lastName": "Kim",
+      "purchaseDate": "May-02-2026",
+      "productPurchased": "Compression Shirt",
+      "price": 3200
+    },
+    {
+      "transactionId": "T-2026-0020",
+      "customerId": "C-104",
+      "firstName": "Sarah",
+      "lastName": "Kim",
+      "purchaseDate": "May-07-2026",
+      "productPurchased": "Track Jacket",
+      "price": 4500
+    },
+    {
+      "transactionId": "T-2026-0021",
+      "customerId": "C-105",
+      "firstName": "David",
+      "lastName": "Chen",
+      "purchaseDate": "May-03-2026",
+      "productPurchased": "Track Jacket",
+      "price": 5500
+    },
+    {
+      "transactionId": "T-2026-0022",
+      "customerId": "C-105",
+      "firstName": "David",
+      "lastName": "Chen",
+      "purchaseDate": "May-08-2026",
+      "productPurchased": "Gym Bag",
+      "price": 5999
+    },
+    {
+      "transactionId": "T-2026-0023",
+      "customerId": "C-106",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "purchaseDate": "May-04-2026",
+      "productPurchased": "Gym Bag",
+      "price": 6500
+    },
+    {
+      "transactionId": "T-2026-0024",
+      "customerId": "C-106",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "purchaseDate": "May-09-2026",
+      "productPurchased": "Wireless Earbuds",
+      "price": 7200
+    },
+    {
+      "transactionId": "T-2026-0025",
+      "customerId": "C-101",
+      "firstName": "John",
+      "lastName": "Carter",
+      "purchaseDate": "Jun-02-2026",
+      "productPurchased": "Wireless Earbuds",
+      "price": 8000
+    },
+    {
+      "transactionId": "T-2026-0026",
+      "customerId": "C-101",
+      "firstName": "John",
+      "lastName": "Carter",
+      "purchaseDate": "Jun-07-2026",
+      "productPurchased": "Cycling Helmet",
+      "price": 8999
+    },
+    {
+      "transactionId": "T-2026-0027",
+      "customerId": "C-102",
+      "firstName": "Mia",
+      "lastName": "Lopez",
+      "purchaseDate": "Jun-03-2026",
+      "productPurchased": "Cycling Helmet",
+      "price": 9000
+    },
+    {
+      "transactionId": "T-2026-0028",
+      "customerId": "C-102",
+      "firstName": "Mia",
+      "lastName": "Lopez",
+      "purchaseDate": "Jun-08-2026",
+      "productPurchased": "Water Bottle",
+      "price": 10020
+    },
+    {
+      "transactionId": "T-2026-0029",
+      "customerId": "C-103",
+      "firstName": "Arjun",
+      "lastName": "Mehta",
+      "purchaseDate": "Jun-04-2026",
+      "productPurchased": "Water Bottle",
+      "price": 11000
+    },
+    {
+      "transactionId": "T-2026-0030",
+      "customerId": "C-103",
+      "firstName": "Arjun",
+      "lastName": "Mehta",
+      "purchaseDate": "Jun-09-2026",
+      "productPurchased": "Sports Socks",
+      "price": 12500
+    },
+    {
+      "transactionId": "T-2026-0031",
+      "customerId": "C-104",
+      "firstName": "Sarah",
+      "lastName": "Kim",
+      "purchaseDate": "Jun-02-2026",
+      "productPurchased": "Sports Socks",
+      "price": 14900
+    },
+    {
+      "transactionId": "T-2026-0032",
+      "customerId": "C-104",
+      "firstName": "Sarah",
+      "lastName": "Kim",
+      "purchaseDate": "Jun-07-2026",
+      "productPurchased": "Foam Roller",
+      "price": 15000
+    },
+    {
+      "transactionId": "T-2026-0033",
+      "customerId": "C-105",
+      "firstName": "David",
+      "lastName": "Chen",
+      "purchaseDate": "Jun-03-2026",
+      "productPurchased": "Foam Roller",
+      "price": 18999
+    },
+    {
+      "transactionId": "T-2026-0034",
+      "customerId": "C-105",
+      "firstName": "David",
+      "lastName": "Chen",
+      "purchaseDate": "Jun-08-2026",
+      "productPurchased": "Training Shorts",
+      "price": 20050
+    },
+    {
+      "transactionId": "T-2026-0035",
+      "customerId": "C-106",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "purchaseDate": "Jun-04-2026",
+      "productPurchased": "Training Shorts",
+      "price": 24999
+    },
+    {
+      "transactionId": "T-2026-0036",
+      "customerId": "C-106",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "purchaseDate": "Jun-09-2026",
+      "productPurchased": "Swim Goggles",
+      "price": 1999
+    }
+  ]
+}
