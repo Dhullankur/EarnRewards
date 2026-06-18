@@ -23,3 +23,23 @@ Mock API file: `public/transactions.json`
 - `npm run build`
 - `npm run lint`
 - `npm run test:run`
+
+## Tests
+
+All tests live under `src/test/`.
+
+## Screenshots
+
+### User Monthly Rewards and Total Rewards
+
+![User Monthly Rewards and Total Rewards tables](public/MonthlyRewardTable.png)
+
+### Total Rewards and Transactions
+
+![Total Rewards and Transactions tables](public/TransactionsTable.png)
+
+### Date Range Warning
+![Date Range Warning](public/DateRange.png)
+
+### No Record Available
+![No Record Available](public/NoData.png)

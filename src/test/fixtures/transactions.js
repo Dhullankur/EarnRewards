@@ -1,0 +1,78 @@
+import { normalizeTransactions } from "../../util/transactions";
+
+export const rawMockTransactions = [
+  {
+    transactionId: "T-2026-0001",
+    customerId: "C-101",
+    firstName: "Jane",
+    lastName: "Doe",
+    purchaseDate: "Apr-05-2026",
+    productPurchased: "Yoga Mat",
+    price: 4599,
+  },
+  {
+    transactionId: "T-2026-0002",
+    customerId: "C-101",
+    firstName: "Jane",
+    lastName: "Doe",
+    purchaseDate: "Apr-20-2026",
+    productPurchased: "Running Shoes",
+    price: 12000,
+  },
+  {
+    transactionId: "T-2026-0003",
+    customerId: "C-101",
+    firstName: "Jane",
+    lastName: "Doe",
+    purchaseDate: "May-15-2026",
+    productPurchased: "Track Jacket",
+    price: 8000,
+  },
+  {
+    transactionId: "T-2026-0004",
+    customerId: "C-102",
+    firstName: "Adam",
+    lastName: "Smith",
+    purchaseDate: "Apr-10-2026",
+    productPurchased: "Water Bottle",
+    price: 2500,
+  },
+  {
+    transactionId: "T-2026-0005",
+    customerId: "C-102",
+    firstName: "Adam",
+    lastName: "Smith",
+    purchaseDate: "May-20-2026",
+    productPurchased: "Gym Bag",
+    price: 5999,
+  },
+  {
+    transactionId: "T-2026-0006",
+    customerId: "C-102",
+    firstName: "Adam",
+    lastName: "Smith",
+    purchaseDate: "May-28-2026",
+    productPurchased: "Energy Bars Pack",
+    price: 3200,
+  },
+  {
+    transactionId: "T-2026-0007",
+    customerId: "C-103",
+    firstName: "Zara",
+    lastName: "Khan",
+    purchaseDate: "Jun-01-2026",
+    productPurchased: "Smart Watch",
+    price: 18999,
+  },
+  {
+    transactionId: "T-2026-0008",
+    customerId: "C-103",
+    firstName: "Zara",
+    lastName: "Khan",
+    purchaseDate: "Jun-05-2026",
+    productPurchased: "Training Shorts",
+    price: 6500,
+  },
+];
+
+export const mockTransactions = normalizeTransactions(rawMockTransactions);
