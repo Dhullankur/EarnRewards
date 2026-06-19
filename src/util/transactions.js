@@ -1,5 +1,10 @@
 import { toIsoDate } from "./dates";
 
+/**
+ * Converts a cent amount to dollars.
+ * @param {number} amountInCents
+ * @returns {number} Amount in dollars.
+ */
 export function centsToDollars(amountInCents) {
   return amountInCents / 100;
 }

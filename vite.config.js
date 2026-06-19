@@ -24,7 +24,7 @@ export default defineConfig({
   optimizeDeps: {
     rolldownOptions: { moduleTypes: jsAsJsx },
   },
-  base: "/EarnRewardsApp/",
+  base: "/EarnRewards/",
   test: {
     environment: "jsdom",
     setupFiles: "./src/test/setup.js",
